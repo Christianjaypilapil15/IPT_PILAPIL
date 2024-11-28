@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: .9;
+    background-color: #60697A;
+    color: #D6C6A2;
+}    
+.cjay {
+    background: url('background-image.jpg') no-repeat center center/cover;
+    color: #8BC6CA;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.picture{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+    
+.aboutme {
+background-color: #FDB35D;
+  height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 50px;
+}
+
+
+#wan{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#two{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#three{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#por{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.myDiv {
+  border: 5px solid yellow;
+  background-color:#FDB35D;
+  text-align: center;
+  border-radius: 50px;
+    height: 250px;
+}
